@@ -48,7 +48,7 @@ Analysis, design and coding of an application for the tracking of maintenance an
 ### Graduate
 
 * **2006-2009** : Graduated with distinction in Computer Sciences at IFOSUP (Wavre, Belgium)
-* **2003-2004** : 1st year at the Exole Polytechnique at ULB (Brussels, Belgium)
+* **2003-2004** : 1st year at the Ecole Polytechnique at ULB (Brussels, Belgium)
 * **2003** : Passing the entrance exam at the Ecole Polytechnique at ULB
 
 ### High School
