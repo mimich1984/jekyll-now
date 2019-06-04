@@ -11,7 +11,7 @@ permalink: /
 
 April 2014 - Present
 
-As a Technical Lead I ensure the deliveries of the team are in line with the specifications; both the requirements and the code. I also participate in project design and communicate with the Architects to make sure implementation is in line wit their objectives.
+As a Technical Lead I ensure the deliveries of the team are in line with the specifications; both the requirements and the code. I also participate in project design and communicate with the Architects to make sure implementation is in line with their objectives.
 
 As a Backend Software Developer I maintain the current acquirer connections, perform upgrades on existing ones to support new features, enhance the existing services. I also participate in the platform stability by managing and solving real-time issues.
 
