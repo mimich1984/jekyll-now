@@ -3,10 +3,16 @@ layout: page
 title: About Me
 permalink: /
 ---
+## Skills
+
+```
+c# dotnet-core dotnet-framework xunit mstest mocks windows-services iis sql delphi asp powershell integration-tests unit-tests scrum tfs git
+```
 
 ## Experience
 
 ### Technical Lead & Backend Software Developer @ Ingenico e-Payments
+
 [Online Payments](https://www.ingenico.com/epayments)
 
 April 2014 - Present
@@ -17,7 +23,9 @@ As a Backend Software Developer I maintain the current acquirer connections, per
 
 I work both by developing/maintaining Delphi and C# code
 
+
 ### Analyst Programmer @ EORTC
+
 [European Organization for Research and Treatment of Cancer](https://www.eortc.org/)
 
 September 2009 - April 2014
@@ -27,6 +35,7 @@ Development of applications for Data Management and Pharmacovigilance in oncolog
 Project management and development: defining the user requirements and workflow in collaboration with the users, coding, testing and releasing the new application into the existing application pool. Maintaing already existing applications by correcting bugs, adding new features, modifying the workflow or redesigning the user interface to better suit the evolving needs of the users, collaborating industries and regulations.
 
 ### Employee @ CSE-Semaphore
+
 [Remote Terminal Unit (RTU) Products](https://www.servelectechnologies.com/)
 
 September 2008 - July 2009
@@ -37,6 +46,7 @@ Creation of a test bench allowing the quality control of the RTUs: definition of
 Improvement, automation and debugging of existing test procedures for various boards.
 
 ### Employee @ AVAYA
+
 [Enterprise communication systems](https://www.avaya.com)
 
 July 2007 - July 2008
@@ -64,6 +74,6 @@ Analysis, design and coding of an application for the tracking of maintenance an
 * **Spanish** : biligual
 * **Catalan** : fluent
 
-### Hobbies
+## Hobbies
 
 Cycling, rock-climbing, motorbike, scuba diving
