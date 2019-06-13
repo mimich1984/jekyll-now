@@ -5,9 +5,7 @@ permalink: /
 ---
 ## Skills
 
-```
 c# dotnet-core dotnet-framework xunit mstest mocks windows-services iis sql delphi asp powershell integration-tests unit-tests scrum tfs git
-```
 
 ## Experience
 
