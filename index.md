@@ -3,9 +3,10 @@ layout: page
 title: About Me
 permalink: /
 ---
+
 ## Skills
 
-c# dotnet-core dotnet-framework xunit mstest mocks windows-services iis sql delphi asp powershell integration-tests unit-tests scrum tfs git
+c# dotnet-core dotnet-framework xunit mstest mocks windows-services iis sql delphi asp powershell integration-tests unit-tests scrum tfs git octopus-deploy
 
 ## Experience
 
@@ -19,8 +20,7 @@ As a Technical Lead I ensure the deliveries of the team are in line with the spe
 
 As a Backend Software Developer I maintain the current acquirer connections, perform upgrades on existing ones to support new features, enhance the existing services. I also participate in the platform stability by managing and solving real-time issues.
 
-I work both by developing/maintaining Delphi and C# code
-
+I work both by developing/maintaining C#, Delphi and ASP code
 
 ### Analyst Programmer @ EORTC
 
@@ -75,3 +75,7 @@ Analysis, design and coding of an application for the tracking of maintenance an
 ## Hobbies
 
 Cycling, rock-climbing, motorbike, scuba diving
+
+## Download my CV
+
+My CV in PDF version: <a href="{{ site.footer-links.pdf }}"><i class="svg-icon pdf"></i></a>
