@@ -78,4 +78,4 @@ Cycling, rock-climbing, motorbike, scuba diving
 
 ## Download my CV
 
-My CV in PDF version: <a href="{{ site.footer-links.pdf }}"><i class="svg-icon pdf"></i></a>
+[Click to download my CV in PDF]({{ site.footer-links.pdf }})
