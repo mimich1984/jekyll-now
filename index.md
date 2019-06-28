@@ -8,6 +8,10 @@ permalink: /
 
 c# dotnet-core dotnet-framework xunit mstest mocks windows-services iis sql delphi asp powershell integration-tests unit-tests scrum tfs git octopus-deploy
 
+## Certifications
+
+[**Microsoft DEVOPS200.9x: Architecting Distributed Cloud Applications**](https://courses.edx.org/certificates/76572fc744b74395a6ed9112d157f36e) - June 2019
+
 ## Experience
 
 ### Technical Lead & Backend Software Developer @ Ingenico e-Payments
