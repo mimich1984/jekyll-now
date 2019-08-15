@@ -6,11 +6,13 @@ permalink: /
 
 ## Skills
 
-c# dotnet-core dotnet-framework xunit mstest mocks windows-services iis sql delphi asp powershell integration-tests unit-tests scrum tfs git octopus-deploy
+c# dotnet-core dotnet-framework xunit mstest mocks windows-services iis sql delphi asp powershell integration-tests unit-tests scrum agile tfs git octopus-deploy rabbit-mq splunk
 
 ## Certifications
 
 [**Microsoft DEVOPS200.9x: Architecting Distributed Cloud Applications**](https://courses.edx.org/certificates/76572fc744b74395a6ed9112d157f36e) - June 2019
+
+[**Splunk Certified User**](https://github.com/mimich1984/mimich1984.github.io/raw/master/images/splunk-certified-user.pdf) - August 2018
 
 ## Experience
 
